@@ -1,1 +1,2 @@
-console.log("welcome to diff command")
+console.log("welcome to learning of diff command")
+console.log("let us see how diff works")
